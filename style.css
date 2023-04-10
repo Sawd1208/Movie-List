@@ -1,0 +1,23 @@
+.search-area {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fa-th {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.fa-th:hover {
+  scale: 2;
+}
+
+.fa-bars {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.fa-bars:hover {
+  scale: 2;
+}
